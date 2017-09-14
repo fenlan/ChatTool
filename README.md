@@ -13,5 +13,5 @@ We would like to extend our thanks to the [JIGUANG service](https://www.jiguang.
 </p>
 ## Demonstration
 <div align="center">
-![Demo](https://github.com/fenlan/Mycode/blob/master/images/video.gif)
+<img src="https://github.com/fenlan/Mycode/blob/master/images/video.gif" width="400" height="400"/>
 </div>
