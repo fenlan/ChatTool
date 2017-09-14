@@ -18,4 +18,4 @@ We would like to extend our thanks to the [JIGUANG service](https://www.jiguang.
 </div>
 
 ## Update
-`2016.10.10` Update stopping.
+`2016.10.10` Update stopped.
